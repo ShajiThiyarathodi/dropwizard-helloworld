@@ -1,5 +1,5 @@
-dropwizard-helloworld
-=====================
+dropwizard-helloworld-Lab4
+======================
 
 $ mvn clean package
 
